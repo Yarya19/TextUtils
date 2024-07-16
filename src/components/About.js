@@ -1,10 +1,6 @@
 import React from 'react'
 
 export default function About(props) {
-//     const [mode,setmode] = useState({
-//       color: 'black',
-//       backgroundColor: 'white'
-// });
 
     return (
     <div className='container' style={{backgroundColor: props.mode}}>
